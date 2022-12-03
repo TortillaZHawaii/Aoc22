@@ -3,7 +3,7 @@ using Aoc22CSharp;
 
 Console.WriteLine("Hello, World!");
 
-var day1 = new Day1();
+var day = new Day2();
 
-Console.WriteLine(day1.Solve1());
-Console.WriteLine(day1.Solve2());
+Console.WriteLine(day.Solve1());
+Console.WriteLine(day.Solve2());
